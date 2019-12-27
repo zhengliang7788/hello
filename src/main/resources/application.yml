@@ -1,0 +1,5 @@
+spring:
+  hello:
+    age: 26
+    sex: 女
+    name: 铁锤
